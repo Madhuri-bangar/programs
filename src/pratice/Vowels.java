@@ -5,7 +5,7 @@
 		//		e : 4
 		//		u : 5
 		//		a : 3
-		
+		//interview question 
 	import java.util.HashMap;
 
 public class VowelFrequency {
