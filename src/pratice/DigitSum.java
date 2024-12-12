@@ -1,5 +1,5 @@
 package pratice;
-/*
+
 import java.util.Scanner;
 
 public class DigitSum {
@@ -18,8 +18,7 @@ public class DigitSum {
 		}
 		System.out.println("sum of digit:"+sum);
 		Scanner.close();
-//
+
 	}
 
 }
-*/
