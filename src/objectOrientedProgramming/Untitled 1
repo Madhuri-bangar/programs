@@ -1,0 +1,55 @@
+constructor
+//constructor
+
+//modifiers for constructor 
+public 
+protected 
+default 
+private
+
+not any return type  not even void
+
+constructor execute automatically when we ctreate object
+
+constructor use to initialize object
+
+object created by new keyword
+
+A class in Java is a blueprint for creating objects
+
+When you create an object using the new keyword, the constructor of the
+ class is called to initialize the object
+ 
+
+
+=========================================
+Inheritance:
+
+Inheritance is one of the core concepts of
+ object-oriented programming (OOP) in Java
+ It allows a new class 
+(called the child or subclass) to inherit
+ properties and methods from an existing class (called the parent or superclass).
+The subclass can use all non-private members 
+(fields and methods) of the superclass and can also add new members 
+or override existing ones.
+-----------------------------------------------------------------------
+Superclass and Subclass:
+
+In your code, AnimalInheritance is the superclass (or parent class),
+ and Dog is the subclass (or child class).
+The Dog class inherits the eat method from
+ AnimalInheritance, meaning that Dog objects can use the eat method 
+ without needing to define it themselves.
+ =============================
+ polymorphism
+ 
+ ===================================
+ Method Overloading in Java
+Definition: Method overloading allows a class to have multiple methods with the
+ same name but different parameter lists.
+ 
+ 
+ While resolving Overloaded Methods, Compiler 
+ will always give precedence for the child type argument
+  than compared with parent type argument.
